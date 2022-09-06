@@ -6,9 +6,8 @@ I'm Sasanka Piumal and Software Engineering Undergraduate at  National Institute
 
 Skills:  JS / HTML / CSS / JAVA
 
-- 🔭 I’m currently working on this page. 
+
 - 📫 How to reach me: https://www.linkedin.com/in/sasanka-piumal-40a0961a5/details/resources/ 
-- ⚡ Fun fact: Enjoying Life 
 
 
 
